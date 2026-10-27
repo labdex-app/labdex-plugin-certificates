@@ -1,6 +1,6 @@
 # Certificates
 
-A [labdex](https://github.com/reykimedev/labdex) plugin. Checks the TLS certificate of every https service in the inventory (and any other endpoints you list) and warns before they expire. Nothing leaves your network.
+A [labdex](https://github.com/labdex-app/labdex) plugin. Checks the TLS certificate of every https service in the inventory (and any other endpoints you list) and warns before they expire. Nothing leaves your network.
 
 **Version** 1.0 · **Works with** labdex >=1.3,<2 · **Plugin id** `certificates`
 
